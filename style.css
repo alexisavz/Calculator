@@ -1,0 +1,47 @@
+body{
+  background-color: #222
+}
+
+table{
+  background: rgb(255,158,0);
+background: linear-gradient(135deg, rgba(255,158,0,1) 0%, rgba(222,0,202,1) 100%);
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  padding: 10px;
+  width: relative;
+  height: relative;
+  margin-left: 40%;
+}
+
+button{
+  width: 100px;
+  height: 85px;
+  background-color: transparent;
+  padding: 0;
+  border: none;
+  font-size: 36px;
+}
+
+.main{
+  position: relative;
+  width: auto;
+  height: auto;
+  margin-top: 10%;
+}
+
+form{
+  height: auto;
+  width: auto;
+}
+
+.textview{
+  width: 46.5vh;
+  height: 10vh;
+  margin-left: 40.2%;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  font-size: 40px;
+  font-weight: bold;
+}
